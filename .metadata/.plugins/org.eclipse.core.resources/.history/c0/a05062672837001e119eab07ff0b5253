@@ -1,0 +1,15 @@
+package com.example.androidphone.service;
+
+import org.springframework.stereotype.Service;
+
+import com.example.androidphone.repository.PhoneRepository;
+
+import lombok.RequiredArgsConstructor;
+
+@Service
+@RequiredArgsConstructor
+public class PhoneService {
+	private final PhoneRepository phoneRepository;
+	
+	
+}

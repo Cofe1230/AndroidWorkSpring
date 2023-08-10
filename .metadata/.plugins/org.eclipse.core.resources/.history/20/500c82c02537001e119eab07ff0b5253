@@ -1,0 +1,11 @@
+package com.example.androidphone.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class PhoneController {
+	//추가
+	//전체보기
+	//수정
+	//삭제
+}

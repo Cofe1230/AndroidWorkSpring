@@ -1,0 +1,6 @@
+server.port=8899
+
+spring.devtools.livereload.enabled=true
+
+spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto=update
